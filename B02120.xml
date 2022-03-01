@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King, a proclamation for regulating the colours to be worn on merchant ships</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02120</idno>
+            <idno type="STC">Wing C3415A</idno>
+            <idno type="STC">ESTC R173787</idno>
+            <idno type="EEBO-CITATION">51784450</idno>
+            <idno type="OCLC">ocm 51784450</idno>
+            <idno type="VID">174867</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02120)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174867)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2704:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King, a proclamation for regulating the colours to be worn on merchant ships</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Charles Bill, Henry Hills, and Thomas Newcomb ...,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Given at our court at Whitehall, the eighteenth day of September 1674, in the six and twentieth year of our reign."</note>
+                  <note>Printed as a broadside, now in 2 leaves.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in: Universität Göttingen Bibliothek.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Flags --  Great Britain --  Early works to 1800.</term>
+               <term>Merchant ships --  Great Britain --  Flags, insignia, etc. --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:174867:1"/>
+            <pb facs="tcp:174867:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <p>HONI · SOIT · QVI · MAL · Y · PENSE</p>
+                  <p>DIEV · ET · MON DROIT ·</p>
+               </figure> By the King, A PROCLAMATION For Regulating the Colours to be worn on Merchants Ships.</head>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by ancient Vſage no Merchants Ship ought to bear the Iack, which is for Diſtinction appointed for His Majeſties Ships; Nevertheleſs, His Majeſty is informed, That divers of His Majeſties Subjects have of late preſumed to wear His Majeſties Iack on board their Ships employed in Merchants Affairs, and thinking to evade the Puniſhment due for the ſame, bear Iacks in Shape and mixture of Colours, ſo little different from thoſe of His Majeſty, as not to be without difficulty diſtinguiſhed therefrom; Which practice is found attended with manifold Inconveniences: For prevention whereof for the future, His Majeſty hath thought fit, with the Advice of His Privy Council, by this His Royal Proclamation, ſtrictly to Charge and Command all His Subjects whatſoever, That from henceforth they do not preſume to wear His Majeſties Iack (commonly called, <hi>The Union Jack</hi>) in any of their Ships or Veſſels, without particular Warrant for their ſo doing from His Majeſty, or the Lord High Admiral of <hi>England,</hi> or the Commiſſioners for Executing the Office of Lord High Admiral for the time being; And His Majeſty doth hereby further Command all His Loving Subjects, That without ſuch Warrant as aforeſaid, they preſume not to wear on board their Ships or Veſſels, any Iacks made in imitation of His Majeſties; or any other Flags, Iacks, or Enſigns
+<pb facs="tcp:174867:2"/>
+               <pb facs="tcp:174867:2" rendition="simple:additions"/> whatſoever, then thoſe uſually heretofore worn on Merchants Ships, <hi>viz.</hi> The Flag and Iack white, with a Red Croſs, (commonly called, <hi>Saint George's Croſs</hi>) paſſing quite through the ſame; And the Enſign Red, with the like Croſs in a Canton White, at the upper Corner thereof next to the Staff.</p>
+            <p>And His Majeſty doth hereby require the principal Officers and Commiſſioners of His Navy, Governours of His Forts and Caſtles, the Officers of His Cuſtoms, and Commanders or Officers of any of His Majeſties Ships, or upon their meéting with or otherwiſe obſerving any Merchants Ships or Veſſels of His Majeſties Subjects wearing ſuch a Flag, Iack, or Enſign contrary hereunto, whether at Sea, or in Port, not onely to cauſe ſuch Flag, Iack, or Enſign to be forthwith Seiſed, but to Return the Names of the ſaid Ships and Veſſels, together with the Names of their reſpective Maſters, unto the Lord High Admiral, Lords Commiſſioners of the Admiralty, or the Iudge of the High Court of Admiralty for the time being, to the end the perſons offending may be duly Pu<g ref="char:EOLhyphen"/>niſhed for the ſame.</p>
+            <p>And His Majeſty doth hereby Command and Enjoyn the Iudge and Iudges of the High Court of Admiralty for the time being, that at the ſeveral Seſſions to be hereafter held by His Majeſties Commiſſion of <hi>Oyer</hi> and <hi>Terminer</hi> for the Admiralty, they give in Charge, that ſtrict enquiry be made of all Offences in the Premiſſes, and that they cauſe all offenders therein to be duly puniſhed: And all Vice-Admirals, and Iudges of Vice-Admiralties, are alſo to do the ſame, and to attend the due obſervation hereof within the ſeveral Ports and Places of their reſpective Precincts.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at <hi>Whitehall</hi>
+                  </hi>
+                  <date>
+                     <hi>the Eighteenth day of <hi>September</hi> 1674. In the Six and twentieth Year of Our Reign.</hi>
+                  </date>
+               </dateline>
+               <signed>By His Majeſties Command.</signed>
+            </closer>
+            <closer>God ſave the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Charles Bill, Henry Hills,</hi> and <hi>Thomas Newcomb,</hi> Printers to the Kings Moſt Excellent Majeſty. 1686.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
